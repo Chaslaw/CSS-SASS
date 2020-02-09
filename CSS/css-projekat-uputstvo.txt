@@ -1,0 +1,10 @@
+***** CSS PROJECT *****
+
+
+WHAT SHOULD YOU DO ?
+
+- Create page according to mockup
+
+- Folder structure should be well organized
+
+- Use Open Sans font
